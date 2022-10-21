@@ -6,6 +6,8 @@
 header{
     background-color: aquamarine;
     height: 10vh;
+    display: flex;
+    justify-content: space-evenly;
 }
 main{
     background-color: blue;
