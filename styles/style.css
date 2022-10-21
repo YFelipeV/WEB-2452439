@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+header{
+    background-color: aquamarine;
+    height: 10vh;
+}
+main{
+    background-color: blue;
+    height: 80vh;
+}
+footer{
+    background-color: chartreuse;
+    height: 10vh;
+}
